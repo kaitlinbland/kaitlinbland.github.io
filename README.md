@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
+![picture_title](https://github.com/kaitlinbland/kaitlinbland.github.io/blob/master/kaitlin.PNG?raw=true "Optional Title")
 
-https://github.com/kaitlinbland/kaitlinbland.github.io/blob/master/kaitlin.PNG
 
 ***
